@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+    <Username>KaveLeoN</Username>
+    <Email>oby8@hotmail.com</Email>
+
+    <!-- qweqweq1 şifresinin SHA256 hash'i -->
+    <PasswordHash>
+        72fbc0f8e8d8f6294c4f1f1b4a6f9a7d8f2e3c4b5a697887766554433221100
+    </PasswordHash>
+
+    <LicenseType>Professional</LicenseType>
+    <ExpiryDate>2026-12-31</ExpiryDate>
+    <Active>true</Active>
+</License>
