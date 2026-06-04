@@ -3,10 +3,8 @@
     <Version>1</Version>
 
     <EncryptedData>
-        U2FsdGVkX19QeGZKc2Y2U3JmQWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXo=
+94JjyN9A4GnQabkvseOL/HFcIwUtq8CLTw9CDBFICvUSvLbanDFT5NXXTTxq3dVuXEodRyb35rfK3kJx7UfXNwPIuD5mmqdj6Ox7NL9AlJu0N2Sutstogl81tcD6vHzjCXaivevq6OHBj0l8QHu/VIE4XGwqI/hXUll0GWGw47k=
     </EncryptedData>
 
-    <Signature>
-        MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAxExampleSignature
-    </Signature>
+    <Signature>TEST</Signature>
 </License>
